@@ -48,6 +48,25 @@ $navbar-default-bg: #000;
   margin-top: 0;
 }
 
+.article-title {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.article-body {
+  border-top: 1px solid #eaeaea;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.list-error {
+  border-top: 1px solid #eaeaea;
+}
+
+.list-error h5 {
+  padding-top: 20px;
+}
+
 footer {
   margin-top: 45px;
   padding-top: 5px;
